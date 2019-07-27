@@ -10,4 +10,15 @@ public class HomeController {
 	public String showHomePage() {
 		return "home";
 	}
+	
+	@GetMapping("/parents")
+	public String showParentPage() {
+		return "parent";
+	}
+	
+	@GetMapping("/childrens")
+	public String showSonPage() {
+		return "childrens";
+	}
+	
 }
