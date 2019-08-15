@@ -7,6 +7,6 @@
 <title>parent</title>
 </head>
 <body>
-
+Welocme to my parent page
 </body>
 </html>
